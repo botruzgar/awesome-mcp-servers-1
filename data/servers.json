@@ -3850,6 +3850,25 @@
     }
   },
   {
+    "name": "MakeViral",
+    "url": "https://www.makeviral.ai",
+    "description": "Finds the newest viral AI video and photo trend templates and makes them from the user's own photos, or makes any AI image or video from a prompt.",
+    "category": "communication-and-productivity",
+    "language": "TypeScript",
+    "provider": "MakeViral",
+    "tags": [
+      "video-generation",
+      "image-generation",
+      "social-media",
+      "remote",
+      "oauth"
+    ],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://www.makeviral.ai/mcp"
+    }
+  },
+  {
     "name": "Jet Cab AMS",
     "url": "https://www.jetcabams.nl/llms.txt",
     "description": "Remote server for an Amsterdam chauffeur service: list Schiphol transfer routes, tours and cars, get an exact price quote and send a booking request.",
